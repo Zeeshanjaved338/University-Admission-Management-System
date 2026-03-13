@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UniversityAdmissionManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\ui\\consoleutilityui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\ui\\consoleutilityui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\dl\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\dl\\subjectdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|d:\\universityadmissionmanagementsystem\\universityadmissionmanagementsystem\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8133BB-011D-47C7-9F04-0A69A6E40CAD}|UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem.csproj|solutionrelative:universityadmissionmanagementsystem\\bl\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\DL\\StudentDL.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\DL\\StudentDL.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\DL\\StudentDL.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\DL\\StudentDL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:17:40.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleUtilityUI.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\UI\\ConsoleUtilityUI.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\UI\\ConsoleUtilityUI.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\UI\\ConsoleUtilityUI.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\UI\\ConsoleUtilityUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:21:25.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DegreeProgramUI.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\UI\\DegreeProgramUI.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\UI\\DegreeProgramUI.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\UI\\DegreeProgramUI.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\UI\\DegreeProgramUI.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:20:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\UI\\StudentUI.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\UI\\StudentUI.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\UI\\StudentUI.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:20:14.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectUI.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\UI\\SubjectUI.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\UI\\SubjectUI.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\UI\\SubjectUI.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\UI\\SubjectUI.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:20:48.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\Program.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\Program.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:15:05.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DegreeProgramDL.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\DL\\DegreeProgramDL.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\DL\\DegreeProgramDL.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\DL\\DegreeProgramDL.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\DL\\DegreeProgramDL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:18:00.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectDL.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\DL\\SubjectDL.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\DL\\SubjectDL.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\DL\\SubjectDL.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\DL\\SubjectDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:18:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\BL\\Student.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\BL\\Student.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\BL\\Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:16:49.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\BL\\DegreeProgram.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\BL\\DegreeProgram.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\BL\\DegreeProgram.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\BL\\DegreeProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:17:03.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\BL\\Subject.cs",
+              "RelativeDocumentMoniker": "UniversityAdmissionManagementSystem\\BL\\Subject.cs",
+              "ToolTip": "D:\\UniversityAdmissionManagementSystem\\UniversityAdmissionManagementSystem\\BL\\Subject.cs",
+              "RelativeToolTip": "UniversityAdmissionManagementSystem\\BL\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:17:22.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
